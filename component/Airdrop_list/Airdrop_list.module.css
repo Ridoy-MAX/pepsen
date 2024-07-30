@@ -1,0 +1,277 @@
+
+
+.Airdrop_list_section_one{
+    padding-top: 150px;
+    border-top: 1px solid rgba(0, 0, 0, 0.171);
+ }
+ .Airdrop_list_section_one .heading{
+    padding-bottom: 40px;
+ }
+ .Airdrop_list_section_one .heading .left{
+display: flex;
+ }
+
+ .Airdrop_list_section_one .heading .left h2{
+    color: #212529 !important ;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600;
+    font-size: 2.625rem;
+    margin-top: 1.5rem !important;
+ }
+ .Airdrop_list_section_one .heading .left select{
+    color: #00ff53 !important ;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600;
+    font-size: 2.625rem;
+    margin-top: 1.5rem !important;
+    outline: none;
+    border: 1px solid rgba(0, 0, 0, 0) !important;
+ }
+ .Airdrop_list_section_one .heading .left option{
+    color: #00ff53 !important ;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600;
+    font-size: 2.625rem;
+    margin-top: 1.5rem !important;
+    border: 1px solid rgba(0, 0, 0, 0) !important;
+ }
+
+ .Airdrop_list_section_one .heading .right {
+    display: flex;
+    justify-content: end;
+    margin: 15px;
+ }
+ .Airdrop_list_section_one .heading .right .filter{
+    border: 1px solid rgba(0, 0, 0, 0.151);
+    border-radius: 7px;
+    padding: 10px 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .Airdrop_list_section_one .heading .right .filter h4{
+    color: var(--primary-color) !important ;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    margin-right: 5px;
+    margin-top: 3px;
+ }
+ .Airdrop_list_section_one .heading .right select{
+    color: #202020 !important ;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600;
+    font-size: 17px;
+    margin-top: 1.5rem !important;
+  
+    border: 1px solid rgba(0, 0, 0, 0.541) !important;
+ }
+ .Airdrop_list_section_one{
+    padding-bottom: 70px;
+ }
+ .Airdrop_list_section_one .item {
+    border: 1px solid rgba(0, 0, 0, 0.11);
+    border-radius: 10px;
+    padding: 7px;
+    margin: 20px;
+ }
+ .Airdrop_list_section_one .item .one i{
+    float: right;
+    color: #00ff53;
+ }
+ .Airdrop_list_section_one .item .one {
+   display: flex;
+   justify-content: space-between;
+   padding-bottom: 0px;
+   color: #eefbf4c0;
+   margin-top: 20px;
+ }
+
+ .Airdrop_list_section_one .item .one span{
+    color: #000;
+    background-color: #20c997 !important;
+    padding-top: 0.25rem !important;
+    padding-bottom: 0.25rem !important;
+    border-radius: 50rem !important;
+    line-height: 28px;
+ }
+
+
+
+ .Airdrop_list_section_one .heading_one h5{
+    color: #212525 !important;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+    margin-left: 30px;
+ }
+
+
+
+
+
+ .Airdrop_list_section_one .item .two h2{
+    color: #212525 !important;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+ }
+
+
+
+
+
+
+ .Airdrop_list_section_one .item .three {
+    display: flex;
+    flex-direction: column;
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+ }
+ .Airdrop_list_section_one .item .four a{
+    width: 100%;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600;
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius: 15px;
+    font-size: 16px;
+    background-color: #51518418;
+ }
+
+ .Airdrop_list_section_one .item .three li{
+    list-style: none;
+    color: #343a40 !important;
+    padding: 0.5rem 1rem;
+    font-size: 16px !important;
+    font-weight: 600;
+    font-family: 'Rajdhani', sans-serif;
+ }
+
+
+ .Airdrop_list_section_one .item .one .dot i{
+    color: #212525 !important;
+ }
+ .Airdrop_list_section_one .item .one .dot{
+    border: 1px solid rgba(0, 0, 0, 0.137);
+    border-radius: 100px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .Airdrop_list_section_one .item .one h5{
+    font-size: 1.125rem;
+    color: #212525 !important;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600;
+    margin-top: 5px;
+    margin-left: 5px;
+ }
+ .Airdrop_list_section_one .item .two img {
+ width: 100%;
+ border-radius: 7px;
+ height: 300px;
+ }
+
+ .Airdrop_list_section_one .item .one h6{
+    color: #adb5bd !important;
+    font-size: 13px;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600;
+ }
+ .Airdrop_list_section_one .item .one img{
+   width: 40px;
+ }
+ .Airdrop_list_section_one .item .three{
+    padding-top: 20px;
+ }
+ .Airdrop_list_section_one .item .three h2{
+    font-size: 1.5rem;
+    color: #212525 !important;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600;
+ }
+
+ .Airdrop_list_section_one .item .three h2 span{
+    color: #adb5bd !important;
+    font-size: 13px;
+ }
+ .Airdrop_list_section_one .item .three {
+    display: flex;
+  }
+
+  .Airdrop_list_section_one .item .three span img{
+    width: 45px;
+  }
+
+  .Airdrop_list_section_one .item .four {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .Airdrop_list_section_one .item .four h6{
+    font-size: 1.125rem;
+    color: #212525 !important;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600;
+
+  }
+  .Airdrop_list_section_one .item .four h6 span{ 
+    color: #adb5bd !important;
+    font-size: 13px;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600;
+  }
+  .Airdrop_list_section_one .item .five a{
+    width: 100%;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600;
+    border: 1px solid rgba(0, 0, 0, 0.247);
+    border-radius: 15px;
+    font-size: 16px;
+    background-color: #51518418;
+
+  }
+
+  .Airdrop_list_section_one  .pagination {
+    display: flex;
+    justify-content: center;
+  }
+
+  .Airdrop_list_section_one  .pagination .dot{
+    margin: 4px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.308);
+  }
+  .Airdrop_list_section_one  .pagination .active{
+    margin: 4px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.308);
+    background-color: black !important;
+    color: white !important;
+  }
+  .Airdrop_list_section_one  .pagination .dot:hover{
+    background-color: #21252531;
+    transition: 0.3s;
+  }
+  .Airdrop_list_section_one  .pagination .dot a{
+    text-decoration: none;
+  
+    font-size: 1.125rem;
+    color: #212525 !important;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 700;
+  }
+  .Airdrop_list_section_one  .pagination .active a{
+    text-decoration: none;
+  
+    font-size: 1.125rem;
+    color: #ffffff !important;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 700;
+  }

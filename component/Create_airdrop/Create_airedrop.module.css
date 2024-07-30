@@ -1,0 +1,25 @@
+.Create_airdrop{
+    padding-top: 150px;
+}
+.Create_airdrop label{
+    text-decoration: none;
+    font-family: 'Rajdhani', sans-serif;
+    color: #212529 !important;
+    line-height: 18px !important;
+    font-weight: 700;
+    font-size: 20px !important;
+}
+
+.Create_airdrop input::placeholder{
+    font-family: 'Rajdhani', sans-serif;
+    color: #21252959 !important;
+} 
+
+.Create_airdrop small{
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.Create_airdrop button{
+    font-family: 'Rajdhani', sans-serif;
+    color: #212529 !important;
+}

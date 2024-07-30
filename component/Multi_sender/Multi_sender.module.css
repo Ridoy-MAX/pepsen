@@ -1,0 +1,34 @@
+.Create_token{
+    padding-top: 170px;
+    padding-bottom: 30px;
+}
+.Create_token .section_one h1{
+    font-family: 'Rajdhani', sans-serif;
+}
+.Create_token .section_one{
+    border: 1px solid rgba(53, 53, 53, 0.062);
+    padding: 25px;
+    border-radius: 8px;
+}
+
+.Create_token .section_one label{
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 700;
+    color: #000000 !important ;
+    font-size: 20px;
+}
+
+
+.Create_token .section_one input::placeholder{
+    font-family: 'Rajdhani', sans-serif;
+    color: #00000042;
+}
+
+.Create_token .section_one p{
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600;
+}
+
+.Create_token .section_one button{
+    color: #000;
+}

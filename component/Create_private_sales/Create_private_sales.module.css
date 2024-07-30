@@ -1,0 +1,38 @@
+.Before_start{
+    padding-top: 150px;
+}
+
+.Before_start label{
+    text-decoration: none;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 900;
+    font-size: 1.225rem;
+}
+.Before_start p{
+    text-decoration: none;
+    font-family: 'Rajdhani', sans-serif;
+    
+    font-size: 13px;
+}
+.Additonal {
+    padding-bottom: 50px;
+}
+.Additonal label{
+    text-decoration: none;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 900;
+    font-size: 1.225rem;
+}
+.Additonal p{
+    text-decoration: none;
+    font-family: 'Rajdhani', sans-serif;
+    
+    font-size: 13px;
+}
+.Additonal a{
+    text-decoration: none;
+    font-family: 'Rajdhani', sans-serif;
+    
+    font-size: 13px;
+
+}

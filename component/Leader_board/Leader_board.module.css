@@ -1,0 +1,44 @@
+.token{
+    padding-top: 180px;
+}
+.token th{
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    color: #00000086;
+    margin: 10px !important;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 11px !important;
+
+}
+.token td{
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    color: #00000086;
+    padding-top: 10px;
+    padding-bottom: 11px !important;
+}
+.token tr{
+
+    border-bottom:1px solid rgba(102, 102, 102, 0.116) ;
+}
+.token a{
+    text-decoration: none;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600;
+    font-size: 16px; 
+}
+
+.token  .section_one .table{
+    width: 100%;
+    padding: 20px;
+    background-color: rgba(240, 248, 255, 0) !important;
+}
+
+.token .section_one {
+    border: 1px solid rgba(0, 0, 0, 0.075);
+    border-radius: 8px;
+    padding: 25px;
+}
